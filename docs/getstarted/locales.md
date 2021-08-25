@@ -40,6 +40,7 @@ The `locale` can also be changed by editing the `argv.json` file directly (**Pre
 Display Language | Locale
 -----------------|-------
 English (US) | `en`
+English (UK) | `en-gb`
 Simplified Chinese | `zh-CN`
 Traditional Chinese | `zh-TW`
 French | `fr`
